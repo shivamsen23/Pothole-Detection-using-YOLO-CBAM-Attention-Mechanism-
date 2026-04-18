@@ -1,10 +1,4 @@
-You’re very close — your content is good, but formatting is messy and not GitHub-friendly. I’ll clean it into a **professional, well-structured README.md** that looks polished.
 
----
-
-# ✅ **FINAL CLEAN README.md (COPY THIS)**
-
-```markdown
 # 🛣️ Pothole Detection using YOLOv8 + CBAM Attention Mechanism
 
 ---
@@ -21,12 +15,12 @@ This project presents a deep learning-based pothole detection system using **YOL
 ---
 
 ## 🚀 Features
-- 🔍 Real-time pothole detection  
-- 🧠 CBAM-enhanced feature learning  
-- 📊 Evaluation metrics (Precision, Recall, mAP)  
-- 🌐 Streamlit-based user interface  
-- 🔥 Heatmap visualization (model attention)  
-- ☁️ Google Colab support for model loading  
+-  Real-time pothole detection  
+-  CBAM-enhanced feature learning  
+-  Evaluation metrics (Precision, Recall, mAP)  
+-  Streamlit-based user interface  
+-  Heatmap visualization (model attention)  
+-  Google Colab support for model loading  
 
 ---
 
@@ -81,11 +75,11 @@ streamlit run app.py
 
 ---
 
-## ⚠️ Model Loading Issue (If Occurs)
+##  Model Loading Issue (If Occurs)
 
 If the model does not load properly, follow these steps:
 
-### 🔁 Use Google Colab
+###  Use Google Colab
 
 1. Open the provided `.ipynb` notebook file
 2. Upload it to **Google Colab**
@@ -95,7 +89,7 @@ If the model does not load properly, follow these steps:
 
 ---
 
-### 📂 Update Model Path
+###  Update Model Path
 
 Update the model path in your code:
 
@@ -105,7 +99,7 @@ model_path = "/content/drive/MyDrive/pothole_model/best.pt"
 
 ---
 
-### 🔄 Restart Application
+###  Restart Application
 
 ```bash
 streamlit run app.py
