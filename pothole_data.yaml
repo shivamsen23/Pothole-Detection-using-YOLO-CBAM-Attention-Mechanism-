@@ -1,0 +1,5 @@
+train: /path/to/train/images
+val: /path/to/valid/images
+
+nc: 1
+names: ['pothole']
