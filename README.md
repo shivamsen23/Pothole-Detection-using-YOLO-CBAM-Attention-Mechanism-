@@ -1,9 +1,10 @@
 
-#  Pothole Detection using YOLOv8 + CBAM Attention Mechanism
+#  🛣️Pothole Detection using YOLOv8 + CBAM Attention Mechanism
+🚀 **Live Demo:** https://pothole-detection-shivam.streamlit.app/
 
 ---
 
-##  Overview
+##  📌Overview
 This project presents a deep learning-based pothole detection system using **YOLOv8** enhanced with **CBAM (Convolutional Block Attention Module)**. The system detects potholes in road images and visualizes results through an interactive **Streamlit web application**.
 
 ### Key Highlights:
@@ -14,7 +15,7 @@ This project presents a deep learning-based pothole detection system using **YOL
 
 ---
 
-##  Features
+## 🚀 Features
 -  Real-time pothole detection  
 -  CBAM-enhanced feature learning  
 -  Evaluation metrics (Precision, Recall, mAP)  
@@ -43,7 +44,7 @@ project-root/
 
 ---
 
-##  Setup Instructions
+## ⚙️Setup Instructions
 
 ###  Step 1: Extract Project
 Download and extract the project folder to your local system.
@@ -75,7 +76,7 @@ streamlit run app.py
 
 ---
 
-##  Model Loading Issue (If Occurs)
+##  ⚠️Model Loading Issue (If Occurs)
 
 If the model does not load properly, follow these steps:
 
